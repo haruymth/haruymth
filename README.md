@@ -1,6 +1,7 @@
 # Haruymth
-<div style="text-align:center">
+
 ![](https://komarev.com/ghpvc/?username=haruymth)  
+<div style="text-align:center">
 [雑談とか質問とかプログラミングとかの話のやつ](https://github.com/haru-ymth/haru-ymth/issues/1)でなんかしゃべったらいいよ(  
 多分僕の技術力の範囲で質問とかは答えます  
 
