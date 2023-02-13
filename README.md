@@ -3,7 +3,8 @@
 # Haruymth
 
 <img src="https://komarev.com/ghpvc/?username=haruymth">
-[雑談とか質問とかプログラミングとかの話のやつ](https://github.com/haruymth/haru-ymth/issues/1)でなんかしゃべったらいいよ(  
+  
+  <a href="https://github.com/haruymth/haru-ymth/issues/1">ココ</a>でなんかしゃべろう
 
 多分僕の技術力の範囲で質問とかは答えます  
 <a href="https://github.com/anuraghazra/github-readme-stats">
