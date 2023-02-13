@@ -1,4 +1,4 @@
-<center>
+<div style="text-align:center">
   
 # Haruymth
 
@@ -13,6 +13,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruymth&langs_count=8">
 </a>
-</p>
 
-</center>
+</div>
