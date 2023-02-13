@@ -1,6 +1,8 @@
 <div style="text-align:center">
   
-# Haruymth
+<h1>
+  Haruymth
+  </h1>
 
 <img src="https://komarev.com/ghpvc/?username=haruymth">
   
