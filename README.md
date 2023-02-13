@@ -1,9 +1,9 @@
-<p align="center">
+
   
 <h1>
   Haruymth
   </h1>
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=haruymth">
   
   <a href="https://github.com/haruymth/haru-ymth/issues/1">ココ</a>でなんかしゃべろう
