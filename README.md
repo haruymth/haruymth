@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<p style="text-align:center">
   
 <h1>
   Haruymth
@@ -16,4 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruymth&langs_count=8">
 </a>
 
-</div>
+</p>
