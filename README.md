@@ -1,3 +1,4 @@
+<center>
 # Haruymth
 
 ![](https://komarev.com/ghpvc/?username=haruymth)  
@@ -5,9 +6,7 @@
 
 多分僕の技術力の範囲で質問とかは答えます  
 
-<div style="text-align:center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruymth)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruymth&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+</center>
